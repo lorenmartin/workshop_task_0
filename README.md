@@ -2,7 +2,7 @@
 2D triangle shape
 https://lorenmartin.github.io/workshop_task_0/
 
-These are the notes i made for the following workshop, in the end i used chatGPT to help me do code for a yellow triangle. VhatGPT understand the coding better.
+These are the notes i made for the following workshop, in the end i used chatGPT to help me do code for a yellow triangle. ChatGPT helped me understand the coding better.
 
   
 Workshop 0 documentation notes 
